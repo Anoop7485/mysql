@@ -1,0 +1,1 @@
+create index aq on ecommerce_dataset_updated(price,Discount);
